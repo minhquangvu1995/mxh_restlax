@@ -13,4 +13,5 @@
 
 Route::get('/', function () {
     return view('welcome');
+//    Tính năng mới banner_home
 });
