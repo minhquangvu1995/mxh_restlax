@@ -13,4 +13,7 @@
 
 Route::get('/', function () {
     return view('welcome');
+//    Tính năng mới thứ 1 đã xong, đẩy vào dev thôi
+//    Merge vào dev bị lỗi, fix conflict cái đã
+//    Fix lỗi ở bản release-1.0
 });
