@@ -13,8 +13,4 @@
 
 Route::get('/', function () {
     return view('welcome');
-//    Tính năng mới banner_home
-//    Có một bug trên branch release-1.0 đã fix
-//    Tính năng mới adv_in_home
-//    Có bug nhỏ từ release 1.0 đã fix
 });
