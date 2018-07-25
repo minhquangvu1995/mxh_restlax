@@ -17,4 +17,5 @@ Route::get('/', function () {
 //    Merge vào dev bị lỗi, fix conflict cái đã
 //    Fix lỗi ở bản release-1.0
 //    Merge vào master bị conflict, fix luôn
+//    Tạo nhánh hotfix-1.0.1 để fix lỗi đang lỗi trên master
 });
